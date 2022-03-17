@@ -1,5 +1,9 @@
-/* *{
-    margin: 0;
-    padding: 0;
-} */
+
+@media (max-width:965px){
+
+    ul li{
+        display: flex;
+        justify-content: space-evenly;
+    }
+}
 
